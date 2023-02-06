@@ -1,4 +1,4 @@
-package behavioral.pattern.factory;
+package creational.pattern.factory;
 
 abstract class Plan{
     protected double rate;

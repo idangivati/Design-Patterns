@@ -1,4 +1,4 @@
-package structural.pattern.strategy;
+package behavioral.pattern.strategy;
 
 public class Subtraction implements Strategy {
     public float calculation(float a, float b){

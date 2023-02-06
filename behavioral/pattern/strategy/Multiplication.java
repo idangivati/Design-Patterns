@@ -1,4 +1,4 @@
-package structural.pattern.strategy;
+package behavioral.pattern.strategy;
 
 public class Multiplication implements Strategy {
 

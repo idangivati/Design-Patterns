@@ -1,4 +1,5 @@
-package structural.pattern.strategy;
+package behavioral.pattern.strategy;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;

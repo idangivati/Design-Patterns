@@ -1,4 +1,4 @@
-package behavioral.pattern.factory;
+package creational.pattern.factory;
 
 import java.io.*;
 class GenerateBill{
